@@ -15,9 +15,9 @@
 baseURL = "https://yongjang.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "YONGJANG's BLOG"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "YONGJANG's BLOG"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -118,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Hi! Hello! 안녕 ㅎㅎ"
 
   # Customization
   # Define the behavior of the sidebar
