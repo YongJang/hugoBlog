@@ -7,7 +7,7 @@ tags:
 - hugo
 - blog
 thumbnailImagePosition: left
-thumbnailImage: //github.com/YongJang/hugoBlog/tree/master/content/images/2018-06-21-1.png
+thumbnailImage: //github.com/YongJang/hugoBlog/tree/master/content/images/2018-06-21-1.jpeg
 ---
 
 테스트 아아아
