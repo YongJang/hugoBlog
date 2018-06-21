@@ -6,7 +6,7 @@ categories:
 tags:
 - hugo
 - blog
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: //github.com/YongJang/hugoBlog/tree/master/content/images/2018-06-21-1.png
 ---
 
