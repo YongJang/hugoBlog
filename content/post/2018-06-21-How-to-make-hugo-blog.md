@@ -6,7 +6,7 @@ categories:
 tags:
 - hugo
 - blog
-thumbnailImagePosition: left
+thumbnailImagePosition: top
 thumbnailImage: //github.com/YongJang/hugoBlog/tree/master/content/images/2018-06-21-1.png
 ---
 
@@ -18,4 +18,4 @@ thumbnailImage: //github.com/YongJang/hugoBlog/tree/master/content/images/2018-0
 가나다
 가나다라
 
-가나다라마 
+가나다라마
